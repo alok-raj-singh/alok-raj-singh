@@ -1,16 +1,82 @@
-## Hi there 👋
+<h2 align="center">Hi, I'm Alok Raj Singh 👋</h2>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer" /></a>
+</p>
+<p align="center">
+<img align="middle" alt="GIF" src="https://i.pinimg.com/originals/65/a5/ec/65a5ec60b90f6b8faede3390ad5ee065.gif" />
+</p>
+<p>
+Self-learned and self-motivated Web Developer with medium level of experience working on multiple projects. Passionate, hardworking and like to learn something new technology. Promotes best practices in web design and offering diverse customer project portfolios.
+</p>
+<p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
-<!--
-**alok-raj-singh/alok-raj-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<br>
+  <a align='center' href="https://visitcount.itsvg.in">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alok-raj-singh" alt="alok-raj-singh" /> </p>
+</a>
+  
 
-Here are some ideas to get you started:
+  
+**Talking about Personal Stuffs:**
+<ul>
+  <li>- 🔭 I’m currently working on `Something Intresting`.</li>
+  <li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Full Stack Web Development</code></li>
+  <li>- 🤔 I’m looking for help with `Competitive Programming`</li>
+  <li>- 💬 Ask me about anything, Except Maths :sweat_smile:</li>
+  <li> 📫 <b>How to reach me</b> : <code><a href="http://www.linkedin.com/in/alok-raj-singh">LinkedIn</a></code></li>
+  <li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://o/Portfolio/">Portfolio</a></code></li>
+  <li>- ⚡ Fun fact: I waste most of my time playing games</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### A little more about me
+```javascript
+
+const Alok Raj = {
+  pronouns: "He" | "His",
+  age: 18 ,
+  code: ["Javascript", "Python", "HTML", "CSS", "JAVA"],
+  askMeAbout: ["web dev", "frontend dev", "python" ],
+  technologies: {
+      frontend: {
+          js: ["React JS" ],
+          css: ["Tailwind CSS"]
+      },
+      codeEditor: {
+          competitiveProgramming: ["VS Code"],
+          frontEndDev: ["VS Code"]
+      }
+  }
+}
+
+```
+
+## 🛠️ Technologies and Tools I use:
+
+<p>
+<img alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25px"/>
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
+<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
+<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+<img alt="mySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+
+ 
+### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
+![Contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+<center>
+
+---
+  
+  ### :fire: My Stats :
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-raj-singh&theme=blue-green"> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alok-raj-singh&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
+
+</center>
